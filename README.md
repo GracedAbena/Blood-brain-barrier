@@ -7,6 +7,8 @@ classification tasks involving BBBP.
 
 
 # Citation
+If this code was helpful please cite this paper.
+
 
 @inproceedings{inproceedings,
 author = {Wu, Wei-Ping and Nanor, Ebenezer},
