@@ -5,14 +5,4 @@ In this work, we focused on predicting the permeability of CNS drugs to the bloo
 representation of the molecular compounds, our models were able to achieve a competitive advantage over state-of the art models in
 classification tasks involving BBBP.
 
-# Citation
-If this code has been helpful, please cite our paper
-@inproceedings{inproceedings,
-author = {Wu, Wei-Ping and Nanor, Ebenezer},
-year = {2021},
-month = {05},
-pages = {104-109},
-title = {Prediction of Drug Permeability to the Blood-Brain Barrier using Deep Learning},
-doi = {10.1145/3476779.3476797}
-}
 
